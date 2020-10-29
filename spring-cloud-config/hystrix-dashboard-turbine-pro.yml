@@ -1,0 +1,6 @@
+#Turbine
+#Turbine来提供把多个hystrix.stream的内容聚合为一个数据源供Dashboard展示
+spring:
+  application:
+    name: hystrix-dashboard-turbine
+    password: 123456
