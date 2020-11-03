@@ -1,4 +1,4 @@
 spring:
   application:
     name: producer
-    password: 1234567
+    password: 12345678
